@@ -9,4 +9,5 @@ src/      -> Java source files
 lib/      -> JDBC driver (ojdbc6.jar)
 
 THINGS TO HAVE:
-- Since this uses the University Oracle DB, a connection to TMU must be established (VPN or WIFI). 
+- Since this uses the University Oracle DB, a connection to TMU must be established (VPN or WIFI).
+- To clone this project, you must install  GIT. You may do so here: git-scm.com
